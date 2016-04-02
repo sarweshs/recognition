@@ -1,6 +1,6 @@
 # Node.js Starter Overview
-
-The Node.js Starter demonstrates a simple, reusable Node.js web application based on the Express framework.
+This is a sample report which uses watson speech-to-text service to speak the details.
+The Node.js Starter demonstrates a simple, reusable Node.js web application based on the Express framework. You may need to update the user name and password for using watson service on bluemix.
 
 ## Run the app locally
 
@@ -9,6 +9,6 @@ The Node.js Starter demonstrates a simple, reusable Node.js web application base
 3. cd into the app directory
 4. Run `npm install` to install the app's dependencies
 5. Run `npm start` to start the app
-6. Access the running app in a browser at http://localhost:6001
+6. Access the running app in a browser at http://localhost:<port>
 
 [Install Node.js]: https://nodejs.org/en/download/
