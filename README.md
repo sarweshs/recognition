@@ -1,5 +1,5 @@
 # Node.js Starter Overview
-This is a sample report which uses watson speech-to-text service to speak the details.
+This is a sample application which uses nodejs/angularjs/expressjs/zingchart and watson speech-to-text service.
 The Node.js Starter demonstrates a simple, reusable Node.js web application based on the Express framework. You may need to update the user name and password for using watson service on bluemix.
 
 ## Run the app locally
